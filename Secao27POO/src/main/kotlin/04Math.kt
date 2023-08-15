@@ -28,3 +28,6 @@ class Math {
         println("${number1 / number2}")
     }
 }
+
+class `5` {
+}

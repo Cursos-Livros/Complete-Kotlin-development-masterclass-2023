@@ -20,3 +20,6 @@ class jetpack {
     }
 
 }
+
+class `5bankaccount` {
+}
